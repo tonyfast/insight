@@ -1,1 +1,0 @@
-`conda install bokeh=0.11.0`
