@@ -1,5 +1,6 @@
 name: bk_geopy
 dependencies:
+- python=3.5 # for python version
 - pandas
 - bokeh=0.11.0
 - pip: [geopy]
