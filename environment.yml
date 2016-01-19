@@ -1,6 +1,6 @@
-- name: one-liner
-- dependencies:
-    - requests
-    - python=3.4
-    - pip:
-        - ipywidgets
+name: one-liner
+dependencies:
+- python=3.4
+- requests
+- pip:
+    - ipywidgets
