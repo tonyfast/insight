@@ -1,6 +1,7 @@
-name: bk_geopy
+name: my_binder
 dependencies:
 - python=3.5 # for python version
 - pandas
 - bokeh=0.11.0
-- pip: [geopy]
+- requests
+- pip: [geopy,ipywidgets]
