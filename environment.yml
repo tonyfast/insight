@@ -1,3 +1,4 @@
+- name: one-liner
 - dependencies:
     - requests
     - python=3.4
