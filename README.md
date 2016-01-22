@@ -3,6 +3,8 @@
 * What is the internet?
 * What is open source?
 * What is Github?
+  * Github Gist
+  * Github Pages -- 'Start Here'
 * What is Python?
 * What is Exploration?
 
