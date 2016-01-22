@@ -5,7 +5,7 @@
 * What is Github?
   * Github Gist
   * Github Pages -- 'Start Here'
-* What is Python?
+* What is the Jupyter Notebook?
 * What is Exploration?
 
 
