@@ -32,4 +32,4 @@ These commands will:
 
 > The notebooks are hosted live on a free service called [Binder](http://mybinder.org)
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _ Live notebooks for the class._
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _Live notebooks for the class._
