@@ -6,7 +6,6 @@ The class will simulate an interactivate data science environment using open sou
 ## Collaboration
 
 * [![Gitter](https://badges.gitter.im/tonyfast/insight.svg)](https://gitter.im/tonyfast/insight?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) - _Live chat for the class._
-* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _ Live notebooks for the class._
 
 # Participating
 
