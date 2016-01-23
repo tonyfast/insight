@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: First Post with out WRC
 ---
 

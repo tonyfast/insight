@@ -8,24 +8,28 @@ The class will simulate an interactivate data science environment using open sou
 * [![Gitter](https://badges.gitter.im/tonyfast/insight.svg)](https://gitter.im/tonyfast/insight?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) - _Live chat for the class._
 * [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _ Live notebooks for the class._
 
+# Participating
 
+## On your local machine
 
-* What is the internet?
-* What is open source?
-* What is Github?
-  * Github Gist
-  * Github Pages -- 'Start Here'
-* What is the Jupyter Notebook?
-* What is Exploration?
+Requires [GitHub](https://desktop.github.com/) and [Anaconda](https://www.continuum.io/downloads).
 
+In your terminal type:
 
+```
+git clone https://github.com/tonyfast/insight
+cd insight
+conda env create
+source activate insight
+```
 
-## Why Python?
+These commands will:
 
+1. Download the code in the repository
+2. Create a Python ``3.5`` Conda environment with all the necessary tools for the class.
 
+## Remotely
 
-# bokeh-geopy-binder
+> The notebooks are hosted live on a free service called [Binder](http://mybinder.org)
 
-Google Maps in Bokeh 0.11.0 on Binder
-
-
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _ Live notebooks for the class._
