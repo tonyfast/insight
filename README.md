@@ -33,3 +33,5 @@ These commands will:
 > The notebooks are hosted live on a free service called [Binder](http://mybinder.org)
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight) - _Live notebooks for the class._
+
+## [NBViewer Collection](http://nbviewer.jupyter.org/github/tonyfast/insight/tree/gh-pages/)
