@@ -3,6 +3,11 @@
 This repository will be used for a class at the [Institute for Insight at Georgia State University](http://insight.gsu.edu/).
 The class will simulate an interactivate data science environment using open source tools.
 
+## Collaboration
+
+* [![Gitter](https://badges.gitter.im/tonyfast/insight.svg)](https://gitter.im/tonyfast/insight?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/insight)
+
 
 
 * What is the internet?
@@ -23,4 +28,4 @@ The class will simulate an interactivate data science environment using open sou
 
 Google Maps in Bokeh 0.11.0 on Binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tonyfast/bokeh-geopy-binder)
+
