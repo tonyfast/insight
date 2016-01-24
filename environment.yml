@@ -4,6 +4,10 @@ name: insight
 dependencies:
 - python=3.5 # for python version on binder
 - pandas
+- numpy
+- scikit-learn
+- scikit-image
 - bokeh=0.11.0
 - requests
+- xlrd
 - pip: [geopy,ipywidgets]
