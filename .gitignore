@@ -1,2 +1,6 @@
 _site
 bower_components
+.ipynb_checkpoints
+.DS_Store
+notebook/.ipynb_checkpoints
+notebook/.DS_Store
