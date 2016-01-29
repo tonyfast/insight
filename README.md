@@ -20,7 +20,18 @@ In your terminal type:
 git clone https://github.com/tonyfast/insight
 cd insight
 conda env create
+```
+
+### On Mac or Linux
+
+```
 source activate insight
+```
+
+### On Windows
+
+```
+activate insight
 ```
 
 These commands will:
